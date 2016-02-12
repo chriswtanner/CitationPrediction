@@ -1,0 +1,470 @@
+total docs: 1010
+# unique word types: 21744
+total unique authors (multi authors per doc): 464
+
+
+author,# reports, #links
+tsujii_ jun'ichi,25,231
+pyysalo_ sampo,18,172
+ohta_ tomoko,17,158
+manning_ christopher d.,13,102
+johnson_ mark,12,93
+charniak_ eugene,11,108
+kim_ jin-dong,8,87
+collins_ michael john,8,90
+mercer_ robert l.,8,33
+marcus_ mitchell p.,7,68
+klein_ dan,7,78
+palmer_ martha,7,99
+gildea_ daniel,6,74
+della pietra_ stephen a.,6,19
+della pietra_ vincent j.,6,19
+miyao_ yusuke,6,50
+bikel_ daniel m.,6,73
+mcclosky_ david,6,63
+surdeanu_ mihai,6,59
+brown_ peter f.,5,14
+ananiadou_ sophia,5,40
+briscoe_ ted,5,54
+jelinek_ frederick,5,23
+rquez_ llu&iacute,5,59
+bj&ouml,5,35
+magerman_ david m.,5,27
+lafferty_ john d.,5,22
+mccallum_ andrew,5,38
+salakoski_ tapio,5,35
+rne_ jari,5,35
+pereira_ fernando,5,47
+ramshaw_ lance a.,5,59
+m&agrave,5,59
+clark_ stephen,4,47
+miwa_ makoto,4,34
+bunescu_ razvan c.,4,24
+hockenmaier_ julia,4,27
+nivre_ joakim,4,76
+weischedel_ ralph m.,4,47
+schabes_ yves,4,14
+carroll_ john,4,44
+roukos_ salim,4,21
+daelemans_ walter,4,19
+riezler_ stefan,4,27
+carreras_ xavier,4,67
+king_ tracy holloway,3,20
+harabagiu_ sanda m.,3,27
+bies_ ann,3,14
+church_ kenneth ward,3,6
+jurafsky_ daniel,3,33
+steedman_ mark,3,36
+mooney_ raymond j.,3,13
+ginter_ filip,3,13
+grover_ claire,3,18
+bergler_ sabine,3,25
+yoshida_ kazuhiro,3,17
+hara_ tadayoshi,3,22
+chiang_ david,3,38
+corbett_ peter t.,3,10
+miller_ scott,3,21
+osborne_ miles,3,16
+ratnaparkhi_ adwait,3,23
+ng_ hwee tou,3,22
+bossy_ robert,3,20
+maxwell iii_ john t.,3,30
+finkel_ jenny rose,3,22
+riedel_ sebastian,3,60
+tsuruoka_ yoshimasa,3,18
+mcdonald_ ryan,3,57
+brants_ thorsten,3,17
+sagae_ kenji,3,37
+zhou_ guodong,3,15
+kaplan_ ronald m.,3,30
+poesio_ massimo,3,22
+pennacchiotti_ marco,3,30
+yarowsky_ david,3,15
+geman_ stuart,3,5
+malouf_ robert,3,14
+shieber_ stuart m.,3,14
+crouch_ richard,2,16
+kawahara_ daisuke,2,34
+ninomiya_ takashi,2,10
+zhang_ tong,2,10
+strube_ michael,2,21
+masuda_ katsuya,2,10
+knight_ kevin,2,31
+hwa_ rebecca,2,15
+zhang_ min,2,12
+petrov_ slav,2,36
+res_ philippe,2,4
+eisner_ jason m.,2,11
+su_ jian,2,7
+sullivan_ dan,2,16
+vlachos_ andreas,2,17
+ponzetto_ simone paolo,2,21
+heimonen_ juho,2,13
+bessi&egrave,2,4
+iii_ hal,2,11
+baldridge_ jason,2,24
+nguyen_ huy,2,11
+dagan_ ido,2,13
+johansson_ richard,2,22
+patrick_ jon david,2,7
+pantel_ patrick,2,27
+moldovan_ dan,2,11
+berger_ adam l.,2,7
+de meulder_ fien,2,19
+sobral_ bruno,2,16
+toutanova_ kristina,2,16
+hendrickx_ iris,2,7
+rju_ roxana,2,11
+caraballo_ sharon a.,2,16
+_ goran,2,27
+tjong kim sang_ erik f.,2,27
+gasperin_ caroline,2,14
+kilicoglu_ halil,2,21
+chi_ zhiyi,2,3
+culotta_ aron,2,10
+chieu_ hai leong,2,9
+stolcke_ andreas,2,10
+yakushiji_ akane,2,8
+g&icirc,2,11
+tateisi_ yuka,2,8
+gale_ william a.,2,4
+mart&iacute,2,16
+copestake_ ann,2,12
+daum&eacute,2,11
+schwartz_ richard m.,2,15
+pahikkala_ tapio,2,6
+zavrel_ jakub,2,13
+curran_ james r.,2,18
+roark_ brian,2,23
+kulick_ seth,2,7
+_ jan,2,20
+romano_ lorenza,2,8
+jourde_ julien,2,4
+pad&oacute,2,14
+xue_ nianwen,2,38
+sekine_ satoshi,2,11
+lavie_ alon,2,22
+abney_ steven,2,3
+mao_ chunhong,2,16
+airola_ antti,2,6
+black_ ezra w.,2,14
+batchelor_ colin r.,2,4
+_ sebastian,2,14
+crammer_ koby,2,21
+rak_ rafal,2,23
+marcinkiewicz_ mary ann,2,15
+hindle_ donald,2,5
+versley_ yannick,2,27
+nilsson_ jens,2,54
+meyers_ adam,2,22
+hovy_ eduard,2,11
+wu_ dekai,2,12
+stallard_ david g.,2,10
+vasserman_ alexander,2,12
+rooth_ mats,2,5
+kupiec_ julian,2,7
+nia,2,16
+_ m. ant&ograve,2,16
+vanderwende_ lucy,2,12
+stenetorp_ pontus,2,32
+ng_ vincent,2,115
+rgy,1,7
+jing_ hongyan,1,6
+topi&cacute,1,24
+williams_ john,1,7
+allen_ james f.,1,4
+smarr_ joseph,1,5
+hahn_ udo,1,3
+liberman_ mark y.,1,4
+dyvik_ helge,1,4
+ravichandran_ deepak,1,3
+lowe_ john b.,1,2
+wang_ chunxia,1,12
+gillis_ steven,1,9
+rosenfeld_ roni,1,2
+prescher_ detlef,1,9
+maiorano_ steven j.,1,11
+fort_ kar&euml,1,3
+liu_ haibin,1,7
+chelba_ ciprian,1,3
+lee_ gary geunbae,1,3
+song_ yu,1,3
+qiu_ xin ying,1,1
+hall_ johan,1,37
+bobrow_ robert j.,1,9
+kazama_ jun'ichi,1,3
+snow_ rion,1,11
+babko-malaya_ olga,1,3
+taskar_ ben,1,8
+riloff_ ellen,1,16
+bunsecu_ razvan,1,9
+brew_ chris,1,2
+nissim_ malvina,1,6
+ramani_ arun,1,4
+rahman_ altaf,1,30
+satta_ giorgio,1,7
+roossin_ paul s.,1,1
+ungar_ lyle h.,1,4
+munro_ robert,1,2
+skut_ wojciech,1,5
+soon_ wee meng,1,13
+van halteren_ hans,1,4
+soricut_ radu,1,21
+ittycheriah_ abraham,1,6
+n&eacute,1,1
+joshi_ aravind k.,1,5
+segal_ jonathan,1,4
+swift_ mary,1,4
+van landeghem_ sofie,1,1
+cutting_ douglass,1,5
+winters_ scott,1,4
+rojas_ isabel,1,1
+aarseth_ paul,1,7
+ngai_ grace,1,5
+uchimoto_ kiyotaka,1,23
+quirk_ chris,1,8
+brooks_ james,1,6
+johnson_ david e.,1,4
+itai_ alon,1,7
+yi_ szuting,1,3
+macintyre_ robert,1,7
+kano_ yoshinobu,1,5
+henderson_ john c.,1,7
+miller_ michael,1,1
+ney_ hermann,1,2
+komandur_ ravikumar,1,7
+cardie_ claire,1,16
+hacioglu_ kadri,1,8
+bender_ oliver,1,2
+isozaki_ hideki,1,18
+settles_ burr,1,4
+sha_ fei,1,14
+de baets_ bernard,1,1
+uszkoreit_ hans,1,5
+buchholz_ sabine,1,36
+ures_ lubos,1,2
+&aacute,1,11
+zhang_ yi,1,11
+mihalcea_ rada,1,9
+manine_ alain-pierre,1,3
+poon_ hoifung,1,4
+krishnan_ vijay,1,8
+duffy_ nigel,1,10
+saeys_ yvan,1,1
+wang_ yue,1,18
+schasberger_ britta,1,7
+collier_ nigel,1,8
+yonezawa_ akinori,1,18
+kiefer_ bernd,1,7
+r. mcgrath_ liam,1,7
+engelson_ sean p.,1,6
+schein_ andrew,1,4
+light_ marc,1,1
+schuman_ jonathan,1,4
+pollack_ martha e.,1,9
+chen_ john,1,7
+aghdha_ diarmuid,1,3
+krenn_ brigitte,1,5
+fillmore_ charles j.,1,2
+ler_ daren,1,2
+carter_ david m.,1,15
+whitelaw_ casey,1,5
+giuliano_ claudio,1,5
+koller_ daphne,1,8
+plank_ barbara,1,7
+tsujii_ jun⊙ichi,1,8
+tillmann_ christoph,1,9
+palmer_ david d.,1,4
+stoyanov_ veselin,1,16
+buyko_ ekaterina,1,3
+verspoor_ karin,1,7
+rimell_ laura,1,19
+mcnamee_ paul,1,2
+_ mariona,1,5
+faessler_ erik,1,3
+gilbert_ nathan,1,16
+alphonse_ erick,1,3
+wermter_ joachim,1,3
+choudhury_ pallavi,1,8
+oepen_ stephan,1,6
+cepen_ stephan,1,6
+wick_ michael,1,9
+liekens_ anthony,1,5
+rossler_ marc,1,6
+rayner_ manny,1,15
+taylor_ ann,1,3
+kingsbury_ paul,1,31
+pa&scedil,1,9
+morante_ roser,1,5
+_ llu&iacute,1,1
+heidorn_ george e.,1,7
+k_ pavel,1,11
+takagi_ toshihisa,1,18
+lee_ chih,1,7
+florian_ radu,1,6
+katz_ karen,1,7
+cucerzan_ silviu,1,7
+recasens_ marta,1,5
+billott_ sylvie,1,5
+dellec_ claire,1,1
+day_ david s.,1,4
+stra&ntilde,1,11
+grenager_ trond,1,8
+bontcheva_ kalina,1,1
+butt_ miriam,1,4
+donghong_ ji,1,8
+ravin_ yael,1,7
+krieger_ hans-ulrich,1,7
+ca_ marius,1,9
+barrett_ leon,1,11
+och_ franz josef,1,2
+ritchie_ graeme d.,1,3
+rus_ vasile,1,9
+goodman_ joshua,1,6
+shinyama_ yusuke,1,6
+domico_ kelly,1,7
+suzuki_ jun,1,18
+marcotte_ edward,1,4
+ding_ yuan,1,20
+moens_ marc,1,8
+taylor_ lita,1,2
+gamon_ michael,1,8
+maynard_ diana,1,1
+dredze_ mark,1,5
+ravi_ sujith,1,21
+baker_ collin f.,1,2
+jung_ sung-jae,1,11
+carpuat_ marine,1,5
+bork_ peer,1,1
+luo_ xiaoqiang,1,2
+mikheev_ andrei,1,8
+sima'an_ khalil,1,7
+ciaramita_ massimiliano,1,11
+zhao_ shaojun,1,9
+&oacute,1,3
+abeille_ anne,1,5
+bills_ steven,1,11
+rambow_ owen,1,7
+lau_ raymond,1,2
+kim_ grace,1,7
+saul_ lawrence,1,4
+okanohara_ daisuke,1,8
+koo_ terry,1,17
+pulman_ stephen g.,1,3
+gerner_ martin,1,3
+cunningham_ hamish,1,1
+nguyen_ ngan,1,16
+chen_ hsin-hsi,1,7
+kim_ eunju,1,3
+thibaux_ romain,1,11
+sinclair_ gail,1,6
+ferguson_ mark,1,7
+gandrabur_ simona,1,3
+ouzounova_ rossitza,1,1
+lim_ daniel chung yong,1,13
+marcu_ daniel,1,8
+teufel_ simone,1,3
+mandel_ mark,1,4
+shen_ libin,1,3
+artstein_ ron,1,6
+miller_ lance a.,1,7
+morton_ thomas s.,1,9
+medlock_ ben,1,11
+padr&oacute,1,1
+pradhan_ sameer s.,1,27
+kim_ su nam,1,3
+brill_ eric,1,7
+marsi_ erwin,1,36
+ronique,1,5
+van de peer_ yves,1,1
+szpakowicz_ stan,1,3
+mintz_ mike,1,11
+webb-robertson_ bobbie-jo,1,7
+scha_ remko j. h.,1,1
+tze_ hinrich,1,7
+lavelli_ alberto,1,5
+adriaans_ pieter,1,9
+de marneffe_ marie-catherine,1,9
+li_ wei,1,5
+nek_ jan,1,11
+dingare_ shipra,1,6
+k&uuml,1,37
+kuhn_ jonas,1,9
+badulescu_ adriana,1,2
+mark_ kevin,1,1
+beaumont_ will de,1,4
+chun_ hong-woo,1,11
+hoste_ v&eacute,1,5
+canon_ stephen,1,2
+yi_ byoung-kee,1,3
+corley_ courtney d.,1,7
+tep&aacute,1,11
+resnik_ philip,1,5
+abokrtsk&yacute,1,11
+grenander_ ulf,1,1
+sch&uuml,1,7
+veber_ philippe,1,3
+bergsma_ shane,1,13
+&scaron,1,11
+saric_ jasmin,1,1
+nakazawa_ tsuneko,1,1
+boguraev_ branimir k.,1,8
+printz_ harry,1,2
+srinivasan_ padmini,1,1
+bler_ sandra,1,37
+piatko_ christine,1,2
+goldwater_ sharon,1,12
+topić_ goran,1,8
+brent_ michael r.,1,6
+mayfield_ james,1,2
+ogren_ philip v.,1,1
+kozareva_ zornitsa,1,3
+gillett_ john r.,1,2
+yamada_ kenji,1,10
+cocke_ john,1,1
+black_ alan w.,1,3
+van den bosch_ antal,1,4
+schwall_ ulrike,1,7
+jensen_ karen,1,7
+nakov_ preslav,1,3
+zeman_ daniel,1,11
+tomabechi_ hideto,1,6
+tablan_ valentin,1,1
+zhang_ jie,1,4
+hou_ wen-juan,1,7
+tomita_ masaru,1,8
+russell_ graham j.,1,3
+alshawi_ hiyan,1,12
+lang_ bernard,1,5
+santorini_ beatrice,1,8
+cho_ han-cheol,1,4
+hanks_ patrick,1,2
+foster_ george,1,3
+van de guchte_ maarten,1,1
+white_ peter,1,4
+morarescu_ paul,1,9
+denis_ pascal,1,15
+hearst_ marti a.,1,11
+katrenko_ sophia,1,9
+sibun_ penelope,1,5
+flickinger_ daniel p.,1,6
+haghighi_ aria,1,16
+taul&eacute,1,5
+yeh_ alexander s.,1,2
+derose_ steven j.,1,1
+pedersen_ jan,1,5
+lin_ dekang,1,13
+choi_ sung-pil,1,11
+takeuchi_ jumpei,1,5
+mashuichi_ hiroshi,1,4
+szarvas_ gy&ouml,1,7
+rowley_ andrew,1,11
+zhu_ qiao-ming,1,8
+berck_ peter,1,9
+bergman_ casey m.,1,3
+yuret_ deniz,1,37
+sapena_ emili,1,5
+fox_ heidi j.,1,6
+rohrer_ christian,1,4
+s&eacute,1,3
+jensen_ lars j.,1,1

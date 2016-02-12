@@ -1,0 +1,17 @@
+report,# times cited by other reports, paper by eugene?
+W07-2003, 2
+P00-1058, 2
+W03-1014, 2
+P08-1076, 1
+P08-1085, 1
+P08-1088, 1
+P08-1003, 1
+W03-1004, 1
+W05-0812, 1
+W00-1201, 1
+P08-1083, 1
+P08-1090, 1
+P08-1078, 0
+
+eugene's reports:
+P08-2011

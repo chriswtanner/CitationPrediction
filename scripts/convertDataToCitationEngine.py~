@@ -1,0 +1,22 @@
+#!/usr/bin/python
+
+corpus = 'citeseer'
+
+#citesFile = '/Users/christanner/research/libraries/text-link-code/data/' + corpus + '/' + corpus + '.cites'
+#testFile = '/Users/christanner/research/projects/CitationFinder/eval/' + corpus + '.testing'
+contentFile = '/Users/christanner/research/libraries/text-link-code/data/' + corpus + '/' + corpus + '.content'
+
+refFile = '/Users/christanner/research/projects/CitationFinder/input/' + corpus + '-ref.txt'
+docFile = '/Users/christanner/research/projects/CitationFinder/input/' + corpus + '-doc.txt'
+malletFile = '/Users/christanner/research/projects/CitationFinder/input/' + corpus + '-mallet.txt'
+
+with open(contentFile) as f:
+    for line in f:
+        tokens = line.split()
+        docID = tokens[0]
+        for i in range(1, (len(tokens)/2 - 1)):
+            wordNum = tokens[i*2 - 1]
+            wordCount = tokens[i*2]
+            print str(wordNum) + " => " + str(wordCount)
+
+        exit(1)
